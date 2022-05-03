@@ -55,3 +55,17 @@ body {
   position: absolute;
   left:23%;
 }
+
+.footer {
+  height: 50px;
+  background-color: var(--main-bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: light-grey;
+  flex-direction: column;
+}
+
+.footer a {
+  color: light-grey;
+  }
