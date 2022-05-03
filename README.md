@@ -5,9 +5,9 @@ A MelonJS made "Flappy Bird" clone.
 
 ![](http://i.imgur.com/Slbvt65.png)
 
-Play online at https://anirudddh.github.io/clumsy-bird/
+Play online at https://anirudddh.github.io/Clumsy-Bird/
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/anirudddh/clumsy-bird/tree/gh-pages)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/anirudddh/Clumsy-Bird/tree/gh-pages)
 
 ## Running Locally
 
@@ -28,10 +28,10 @@ Open your browser at `http://localhost:8001/`
 
 ## Making your customization
 
-See [CUSTOMIZING](https://github.com/anirudddh/clumsy-bird/blob/master/CUSTOMIZING.md)
+See [CUSTOMIZING](https://github.com/anirudddh/Clumsy-Bird/blob/master/CUSTOMIZING.md)
 
 ## Some nice games made with this project
 
-[Checkout here](https://github.com/anirudddh/clumsy-bird/wiki/Games-using-clumsy-bird-code)
+[Checkout here](https://github.com/anirudddh/Clumsy-Bird/wiki/Games-using-Clumsy-Bird-code)
 
 Some thoughts about this code you can find on (https://linktr.ee/Anirudddh)
